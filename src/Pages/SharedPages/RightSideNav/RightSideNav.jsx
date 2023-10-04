@@ -13,7 +13,7 @@ const RightSideNav = () => {
   return (
     <div>
       <div className="p-4  mb-6">
-        <h2 className="text-3xl font-bold mb-6">Login With</h2>
+        <h2 className="text-2xl font-semibold mb-6">Login With</h2>
         <button className="btn btn-outline mb-3 w-full">
           <FaGoogle></FaGoogle>
           Login with Google
@@ -24,7 +24,7 @@ const RightSideNav = () => {
         </button>
       </div>
       <div className="p-4 mb-6">
-        <h2 className="text-3xl font-medium mb-3">Find Us On</h2>
+        <h2 className="text-2xl font-semibold mb-3">Find Us On</h2>
         <a
           className="p-4 flex items-center text-lg border rounded-t-lg"
           href=""
